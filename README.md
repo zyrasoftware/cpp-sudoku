@@ -21,7 +21,7 @@ Bu C++ programı, kullanıcıya bir Sudoku oyunu oynama imkanı sunan basit bir 
 **Bu uygulama, C++ dilinde basit bir Sudoku oyununu simüle eder ve temel Sudoku kurallarına uygunluğunu kontrol ederek kullanıcıya interaktif bir oyun deneyimi sunar.**
 
 # Ekran Resmi
-![zyrasoftware](kodde5.png)
+![zyrasoftware](kodde5.PNG)
 
 # Bilgilendirme
 **---------------------------------------------------------**

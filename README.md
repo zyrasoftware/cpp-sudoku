@@ -19,6 +19,7 @@ Bu C++ programı, kullanıcıya bir Sudoku oyunu oynama imkanı sunan basit bir 
 - `main()` fonksiyonu, `Sudoku` sınıfını kullanarak bir Sudoku oyunu başlatır ve oyunu tamamlamak için kullanıcının hamlelerini bekler.
 
 **Bu uygulama, C++ dilinde basit bir Sudoku oyununu simüle eder ve temel Sudoku kurallarına uygunluğunu kontrol ederek kullanıcıya interaktif bir oyun deneyimi sunar.**
+*Projelerinizde İngilizce tanımlamalar yazmaya kendinizi alıştırınız*
 
 # Ekran Resmi
 ![zyrasoftware](kodde5.PNG)
